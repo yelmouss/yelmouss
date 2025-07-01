@@ -44,7 +44,7 @@ Passionate about creating innovative solutions and transforming complex problems
 ## 📫 How to Reach Me
 - 📧 Email: [yelmouss.devt@gmail.com](mailto:yelmouss.devt@gmail.com)
 - 💼 LinkedIn: [Yassine ELMOUSS](https://linkedin.com/in/yelmouss)
-- 🌐 Portfolio: [yassine-portfolio.com](https://yelmouss.vercel.app)
+- 🌐 Portfolio: [yelmouss.vercel.app](https://yelmouss.vercel.app)
 
 ---
 
