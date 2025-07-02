@@ -55,6 +55,6 @@ Passionate about creating innovative solutions and transforming complex problems
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yelmouss&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yelmouss&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=yelmouss&theme=radical" alt="GitHub Streak" />
 </div>
 
